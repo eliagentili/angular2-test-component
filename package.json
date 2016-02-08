@@ -1,0 +1,27 @@
+{
+  "name": "angular2-test-component",
+  "version": "1.0.0",
+  "description": "A trivial Angular2 component",
+  "main": "lib/BootstrapLoginForm.js",
+  "scripts": {
+    "watch": "tsc -p src -w",
+    "build": "rm -rf lib && tsc -p src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliagentili/angular2-test-component.git"
+  },
+  "keywords": [
+    "Angular2"
+  ],
+  "author": "Elia Gentili",
+  "license": "ISC",
+  "homepage": "https://github.com/eliagentili/angular2-test-component",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.3",
+    "rxjs": "^5.0.0-beta.0"
+  },
+  "devDependencies": {
+    "typescript": "^1.7.5"
+  }
+}
