@@ -25,7 +25,7 @@ import {Component} from 'angular2/core';
               </form>`
 })
 
-export class BootstapLoginForm {
+export class BootstrapLoginForm {
 
   message = "Sign in";
 

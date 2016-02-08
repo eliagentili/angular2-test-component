@@ -1,1 +1,1 @@
-exports.BootstapLoginForm = require('./lib/BootstapLoginForm').BootstapLoginForm;
+exports.BootstrapLoginForm = require('./lib/BootstrapLoginForm').BootstrapLoginForm;
